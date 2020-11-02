@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="5.css"?>
+<vtu>
+<heading>
+<USN> USN </USN>
+<Name> Name </Name>
+<College> College Name </College>
+<Branch> Branch </Branch>
+<Yoj> Year of Join </Yoj>
+<Email> Email </Email>
+</heading>
+<student>
+<usn> 4SU17IS005 </usn>
+<name>Anjana Jalannavar</name>
+<college> SDMIT </college>
+<branch> ISE </branch>
+<yoj> 2017 </yoj>
+<email> 4su17is005@sdmit.in </email>
+</student>
+<student>
+<usn> 4SU17IS012 </usn>
+<name>Kavya p d</name>
+<college> SDMIT </college>
+<branch> ISE </branch>
+<yoj> 2017 </yoj>
+<email> kavyapd@sdmit.in </email>
+</student>
+<student>
+<usn> 4SU17IS022 </usn>
+<name>Nisarga R</name>
+<college> SDMIT </college>
+<branch> ISE </branch>
+<yoj> 2017 </yoj>
+<email> NisargaR@sdmit.in </email>
+</student>
+</vtu>
